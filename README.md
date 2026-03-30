@@ -5,7 +5,11 @@
 
 # PEGASUS ZERO-DAY v7.0
 
-### Ultimate QRIS Security Testing Framework
+### Ultimate Security Testing Framework
+
+<div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
 [![Version](https://img.shields.io/badge/version-7.0-red.svg)](https://github.com/yourusername/pegasus-zero-day)
 [![Python](https://img.shields.io/badge/python-3.8%2B-darkred.svg)](https://www.python.org/downloads/)
