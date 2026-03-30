@@ -1,8 +1,9 @@
 <div align="center">
   
-![Pegasus Logo](https://i.ibb.co/your-logo-image/pegasus-logo.png)
+![12012913913](https://github.com/user-attachments/assets/cfad5181-e3e2-4942-be81-962ff65191d7)
 
-# 🐎 PEGASUS ZERO-DAY v7.0
+
+# PEGASUS ZERO-DAY v7.0
 
 ### Ultimate QRIS Security Testing Framework
 
@@ -53,17 +54,11 @@
 ## 📸 **Screenshots**
 
 <div align="center">
-
+  
 ### Dashboard Interface
-![Dashboard](https://via.placeholder.com/800x400/1a0000/ff0000?text=Pegasus+Dashboard)
 
-### QRIS Registration Page
-![QRIS Page](https://via.placeholder.com/800x400/800000/FFD700?text=QRIS+Registration+Page)
+<img width="1919" height="1009" alt="Screenshot 2026-03-30 170744" src="https://github.com/user-attachments/assets/5f97369f-8fdf-41fb-aa72-83bda3fda648" />
 
-### Captured Data
-![Data Capture](https://via.placeholder.com/800x400/1a0000/ff4444?text=Captured+Merchant+Data)
-
-</div>
 
 ---
 
